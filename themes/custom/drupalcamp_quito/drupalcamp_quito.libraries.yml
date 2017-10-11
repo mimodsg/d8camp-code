@@ -5,6 +5,6 @@ global-styling:
      - core/drupal
    css:
     theme:
-      #css/your_style_sheet.css : {}
+     dist/css/style.css : {}
    js:
-     #js/your_js.js : {}
+     dist/js/scripts.js : {}
