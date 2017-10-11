@@ -6,7 +6,12 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/console": "^1.0"
+        "drupal/console": "^1.0",
+        "drupal/paragraphs": "^1.2",
+        "drupal/twig_tweak": "^1.9",
+        "drupal/components": "^1.0",
+        "drupal/devel": "^1.2",
+        "drupal/module_filter": "^3.1"
     },
     "replace": {
         "drupal/core": "^8.4"
