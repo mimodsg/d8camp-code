@@ -35,3 +35,4 @@ sites/simpletest
 # Aditional ignores
 .idea
 node_modules
+*.css.map
