@@ -34,3 +34,4 @@ sites/simpletest
 
 # Aditional ignores
 .idea
+node_modules
